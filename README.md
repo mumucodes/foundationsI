@@ -4,7 +4,7 @@
 
 This collection of files showcases the development of foundation skills in programming ranging from the basic structures in HMTL and CSS to the functionality of vanilla Javascript.
 
-<img src="./profile.jpg"></img><br>
+<img src="./profile.jpg" alt="profile pic"></img><br>
 # ABOUT ME
 GenXer here, coming to the field of software development from a long journey through the evolution from DOS floppy disks to our current cutting edges of machine learning.
 
