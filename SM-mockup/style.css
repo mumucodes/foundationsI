@@ -1,0 +1,10 @@
+body {
+    font-family: 'Gruppo', cursive;
+    color: white;
+    font-weight: 900;
+    font-size: 50px;
+    height: 900px;
+    width: 100% vw;
+    background: rgb(255,254,254);
+    background: linear-gradient(0deg, rgba(255,254,254,1) 0%, rgba(184,0,122,1) 46%, rgba(0,0,0,1) 100%);
+ 

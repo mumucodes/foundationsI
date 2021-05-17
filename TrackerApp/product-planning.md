@@ -8,7 +8,7 @@ Single working class individuals in their 20's to early 40's.
 
 ## Research Methodology
 ### Goal:
-Understand how people track their food expenses and how/if their current existsing tools meet or fall short of theri needs.
+Understand how people track their food expenses and how/if their current existing tools meet or fall short of their needs.
 ### Sample Questionnaire:
 1. How often do you buy something outside your home (including purchases such as coffee/tea, midday snacks and the like)?
 2. How do you currently track what you spend on those expenses?
