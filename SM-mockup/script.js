@@ -1,5 +1,33 @@
 const game = document.getElementById('cardsArray');
 
+//generate game board
+
+//generate players
+
+//ask user to select a player token
+
+//randomly assign another token to computer
+
+//ask user to pick a card
+
+//user clicks on card and card turns up and is placed on the discard stack
+
+// v.1 users token is moved to corresponding place on board
+
+// computers token is moved to corresponding place on board
+
+// repeat process until either player reaches end of board unless all cards are used in which 
+// case the deck is shuffled again and reset
+
+//handle events
+
+//user lands on space that is a licorice will skip the next turn
+//user lands on shortcut user is moved to 
+
+
+
+
+
 //create an array of red card objects with the value 1
 
 const redCardArray = [];
@@ -249,4 +277,22 @@ const cardSet = redCardsetArray.concat((
                             (blueCardsetArray.concat(
                                 (violetCardsetArray))))))))));
 
-console.log(cardSet)
+// function to shuffle compiled array into randomly stacked deck
+
+function shuffle() {
+    let ctr = cardSet.length;
+    let temp;
+    let index;
+
+    while(ctr > 0){
+        index = Math.floor(Math.random()* ctr);
+    ctr --;
+    temp = cardSet[ctr];
+    cardSet[ctr] = cardSet[index];
+    cardSet[index] = temp;
+    } return cardSet;
+}
+
+shuffle();
+console.log(cardSet);
+
